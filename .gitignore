@@ -1,0 +1,12 @@
+.vscode
+.DS_Store
+
+# using CDN instead
+node_modules/
+package-lock.json
+package.json
+tailwind.config.js
+
+# not needed
+index.css
+.txt
