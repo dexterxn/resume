@@ -4,7 +4,7 @@ This repository contains my resume in a simple and easy-to-read design that hope
 
 ## Live Demo
 
-You can view my resume hosted at: [https://davishuang9.github.io/resume/](https://davishuang9.github.io/resume/)
+You can view my resume hosted at: [https://dexterxn.github.io/resume/](https://dexterxn.github.io/resume/)
 
 ## Technologies Used
 
